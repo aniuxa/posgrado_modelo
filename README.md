@@ -29,12 +29,12 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 # Contenido
 
 
-## Revisión de elementos estadísticos básicos desde “tidyverse”
+## I. Revisión de elementos estadísticos básicos desde “tidyverse”
 
 * Tablas de múltiples entradas
 * Repaso de ggplot2
 
-## Pruebas de hipótesis e intervalos de confianza
+## II. Pruebas de hipótesis e intervalos de confianza
 
 * De una sola media
 * De dos medias
@@ -46,19 +46,19 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 * Pruebas no parámetricas
 
 
-## Factores de expansión y diseño muestral complejo
+## III. Factores de expansión y diseño muestral complejo
 
 * De “survey” a “srvyr”
 * Tabulados
 * Intervalos de confianza
 
-## Introducción al modelo de regresión lineal
+## IV. Introducción al modelo de regresión lineal
 
 * Simple
 * Múltiple
 * Evaluación de supuestos
 
-## 	Introducción a los modelos lineales generalizados
+## 	V. Introducción a los modelos lineales generalizados
 * Introducción a la regresión logística para variable de respuesta dicotómica
 * Evaluación de supuestos
 * Efectos marginales
