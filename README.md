@@ -1,5 +1,5 @@
 
-#Inferencia e introducción a los modelos estadísticos con R
+# Inferencia e introducción a los modelos estadísticos con R
 
 20 horas en 5 sesiones
 
