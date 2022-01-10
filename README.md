@@ -68,7 +68,7 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 
 # Antecedentes
 
-Este es un curso que sigue de un curso realizado el año pasado, puedes consultarlo [acá](https://aniuxa.github.io/CursoR-posgrado/)
+Este es un curso es continuación de otro realizado el año pasado el año pasado, puedes consultarlo [acá](https://aniuxa.github.io/CursoR-posgrado/)
 
 # Agradecimiento
 
