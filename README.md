@@ -34,11 +34,12 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 * Tablas de múltiples entradas
 
 Sesión 1:
-[Práctica 1](P1.md)
-[Grabación 1](https://youtu.be/ovZqE-yupuk)
+
++ [Práctica 1](P1.md)
++ [Grabación 1](https://youtu.be/ovZqE-yupuk)
 
 * Repaso de ggplot2
-*
+
 ## II. Pruebas de hipótesis e intervalos de confianza
 
 * De una sola media
