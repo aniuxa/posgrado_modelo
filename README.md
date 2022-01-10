@@ -33,10 +33,14 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 
 * Tablas de múltiples entradas
 
-Sesión 1:
+*Sesión 1:
 
 + [Práctica 1](P1.md)
 + [Grabación 1](https://youtu.be/ovZqE-yupuk)
++ [Código 1](P1.R)
+
+
+*Sesión 2:
 
 * Repaso de ggplot2
 
