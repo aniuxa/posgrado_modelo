@@ -6,7 +6,7 @@ Posgrado en Ciencias Políticas y sociales
 
 20 horas en 5 sesiones
 
-10 al 14 de enero de 2022 de 9 a 12 MD.
+10 al 14 de enero de 2022 de 9 a 13 horas.
 
 Dra. Ana Ruth Escoto Castillo - FCPyS - UNAM
 
