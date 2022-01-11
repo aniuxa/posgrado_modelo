@@ -55,6 +55,7 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 * Prueba ANOVA de un solo factor
 * Pruebas no parámetricas
 
++ [Práctica 2](P2.md)
 
 ## III. Factores de expansión y diseño muestral complejo
 
