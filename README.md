@@ -48,6 +48,8 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 
 * De una sola media
 
++ [Práctica 2](P2.md)
+
 [Grabación 2 - Parte I](https://youtu.be/hz4wPuRCUWM)
 
 [Grabación 2 - Parte II](https://youtu.be/G8TzwxtMlHs)
@@ -61,7 +63,6 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 * Prueba ANOVA de un solo factor
 * Pruebas no parámetricas
 
-+ [Práctica 2](P2.md)
 
 ## III. Factores de expansión y diseño muestral complejo
 
