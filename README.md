@@ -49,6 +49,7 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 * De una sola media
 
 [Grabación 2 - Parte I](https://youtu.be/hz4wPuRCUWM)
+
 [Grabación 2 - Parte II](https://youtu.be/G8TzwxtMlHs)
 
 
