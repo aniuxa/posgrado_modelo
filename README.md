@@ -47,22 +47,29 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 ## II. Pruebas de hipótesis e intervalos de confianza
 
 * De una sola media
-
-+ [Práctica 2](P2.md)
-
-[Grabación 2 - Parte I](https://youtu.be/hz4wPuRCUWM)
-
-[Grabación 2 - Parte II](https://youtu.be/G8TzwxtMlHs)
-
-
 * De dos medias
 * Medias apareadas
 * Proporciones
 * Diferencia de proporciones
 * Chi-cuadrado de independencia
+
+
++ [Práctica 2](P2.md)
+
++ [Grabación 2 - Parte I](https://youtu.be/hz4wPuRCUWM)
++ [Grabación 2 - Parte II](https://youtu.be/G8TzwxtMlHs)
+
+*Sesión 3*
+
++ [Grabación 3]((https://youtu.be/OWQT5cYBbfg)
+
++ [Presentación D2 y D3](presentaciones/D2-D3.pdf)
+
+
+* Sesión 4*
+
 * Prueba ANOVA de un solo factor
 * Pruebas no parámetricas
-
 
 ## III. Factores de expansión y diseño muestral complejo
 
