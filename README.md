@@ -68,6 +68,8 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 
 * Sesión 4*
 
++ [Práctica 3](P3.md)
+
 * Prueba ANOVA de un solo factor
 * Pruebas no parámetricas
 
