@@ -70,6 +70,7 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 * Sesión 4*
 
 + [Práctica 3](P3.md)
++ [Código 3](P3.R)
 
 * Prueba ANOVA de un solo factor
 * Pruebas no parámetricas
@@ -88,15 +89,15 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 
 * Sesión 5*
 
-[Práctica 4](P4.md)
-
 * Múltiple
 * Evaluación de supuestos
-
-## 	V. Introducción a los modelos lineales generalizados
-* Introducción a la regresión logística para variable de respuesta dicotómica
-* Evaluación de supuestos
 * Efectos marginales
+
++ [Práctica 4](P4.md)
++ [Código 4](P4.R)
+
++ [Grabación 5 - Parte I](https://youtu.be/P_5xgS3an0E)
++ [Grabación 5 - Parte II](https://youtu.be/7i-yA3uCKPI)
 
 # Evaluación final
 
