@@ -87,6 +87,7 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 * Simple
 
 * Sesión 5*
+
 [Práctica 4](P4.md)
 
 * Múltiple
@@ -97,7 +98,11 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 * Evaluación de supuestos
 * Efectos marginales
 
+# Evaluación final
 
+[Formulario](https://forms.gle/mAKDHuHrBB4xmGwS7)
+
+Fecha de entrega: 21 de enero de 2022
 
 # Bibliografía
 
