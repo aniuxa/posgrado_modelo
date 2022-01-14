@@ -81,6 +81,8 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 * Tabulados
 * Intervalos de confianza
 
++ [Grabación 4] (https://youtu.be/zpI1vrNGD_4)
+
 ## IV. Introducción al modelo de regresión lineal
 
 * Simple
