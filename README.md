@@ -48,7 +48,6 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 
 * De una sola media
 * De dos medias
-* Medias apareadas
 * Proporciones
 * Diferencia de proporciones
 * Chi-cuadrado de independencia
@@ -86,6 +85,10 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 ## IV. Introducción al modelo de regresión lineal
 
 * Simple
+
+* Sesión 5*
+[Práctica 4](P4.md)
+
 * Múltiple
 * Evaluación de supuestos
 
@@ -98,7 +101,7 @@ Iniciar clonando el proyecto de Rstudio cloud para que sea más rápido y no ten
 
 # Bibliografía
 
-[Escoto Castillo, A. R. (2021). ¿Cómo empezar a estudiar el mercado de trabajo en México? Una introducción al análisis estadístico con R aplicado a la Encuesta Nacional de Ocupación y Empleo. Ciudad de México: Universidad Nacional Autónoma de México.](https://www.dropbox.com/s/h0g9klvt43latqn/C%C3%B3mo%20empezar%20a%20estudiar%20el%20mercado%20de%20trabajo%20en%20M%C3%A9xico_Ruth_Escoto_300ppi.pdf?dl=0)
+[Escoto Castillo, A. R. (2021). ¿Cómo empezar a estudiar el mercado de trabajo en México? Una introducción al análisis estadístico con R aplicado a la Encuesta Nacional de Ocupación y Empleo. Ciudad de México: Universidad Nacional Autónoma de México.](http://ciid.politicas.unam.mx/www/libros/como_empezar_estudiar_mercadotrabajo_mexico.pdf)
 
 Wickham, H., & Grolemund, G. (2016). R for data science: Import, tidy, transform, visualize, and model data. O’Reilly Media, Inc.
 
